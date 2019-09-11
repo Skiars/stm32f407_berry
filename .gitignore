@@ -1,0 +1,10 @@
+# floder
+MDK-ARM/DebugConfig
+MDK-ARM/RTE
+MDK-ARM/stm32f407_berry
+
+# files
+JLinkLog.txt
+JLinkSettings.ini
+startup_stm32f407xx.lst
+*.uvguix.*
